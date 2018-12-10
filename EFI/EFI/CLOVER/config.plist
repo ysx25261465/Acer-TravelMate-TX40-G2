@@ -649,7 +649,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02729102GUDP00A8</string>
+		<string></string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -679,7 +679,7 @@
 		<key>SerialNumber</key>
 		<string>C02V32CIHV2N</string>
 		<key>SmUUID</key>
-		<string>F34DBC38-484F-503F-927C-1AAB0A576EE4</string>
+		<string></string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
@@ -688,7 +688,7 @@
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>F34DBC38-484F-503F-927C-1AAB0A576EE4</string>
+		<string></string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 	</dict>

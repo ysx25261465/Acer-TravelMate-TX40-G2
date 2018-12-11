@@ -25,6 +25,7 @@ WIFI、蓝牙: BCM94360CS2+瑞昱 RTL8168/8111/8112
 2、已开启HIdpi
 
 驱动版本：
+
 CodecCommander ...(2.7.1)
 
 CPUFriend ...(1.1.5)

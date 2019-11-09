@@ -24,25 +24,8 @@ WIFI、蓝牙: BCM94360CS2+瑞昱 RTL8168/8111/8112
 
 1、声卡使用appleALC驱动，注入ID为3
 
-2、已开启HIdpi，分辨率为：1680*944
+2、关闭hidpi，以减少花屏出现。
 
+3、已升级到最新10.15.1系统
 
-三、驱动版本：
-
-CodecCommander ...(2.7.1)
-
-CPUFriend ...(1.1.5)
-
-HibernationFixup ...(1.2.3)
-
-Lilu ...(1.2.8)
-
-NoTouchID ...(1.0.1)
-
-RealtekRTL8111 ...(2.2.2)
-
-VirtualSMC ...(1.0.1)
-
-WhateverGreen ...(1.2.4)
-
-VoodooPS2 ...(4.6.8)
+4、独显使用disgpu.aml禁用

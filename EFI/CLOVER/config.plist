@@ -644,10 +644,6 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
-		<key>ROM</key>
-		<data>
-		Y8h17Jfe
-		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -657,12 +653,8 @@
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
 		<string>MBP142.88Z.0167.B00.1708080034</string>
-		<key>Board-ID</key>
-		<string>Mac-CAD6701F7CEA0921</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C02729102GUDP00A8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -696,8 +688,6 @@
 		<string>MacBookPro14,2</string>
 		<key>SerialNumber</key>
 		<string>C02V32CIHV2N</string>
-		<key>SmUUID</key>
-		<string>F34DBC38-484F-503F-927C-1AAB0A576EE4</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
@@ -707,8 +697,6 @@
 	<dict>
 		<key>#BacklightLevel</key>
 		<integer>0</integer>
-		<key>CustomUUID</key>
-		<string>F34DBC38-484F-503F-927C-1AAB0A576EE4</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>

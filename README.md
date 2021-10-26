@@ -1,6 +1,3 @@
-# Acer-TravelMate-TX40-G2
-
-
 一、主要配置信息
 
 笔记本: acer TMTX40-G2
@@ -17,15 +14,15 @@ CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
 
 WIFI、蓝牙: BCM94360CS2+瑞昱 RTL8168/8111/8112
 
-
 二、主要说明
 
 此合集本人只在宏碁 TMTX-G2使用过，其他型号未测试
 
 1、声卡使用appleALC驱动，注入ID为3
 
-2、关闭hidpi，以减少花屏出现。
+2、已升级到最新12.0.1系统
 
-3、已升级到最新10.15.1系统
+3、OC升级到最新0.7.5版本，OCAT验证无报错issue
 
-4、独显使用disgpu.aml禁用
+
+4、网卡为94360CS2，所以EFI中不包含任何网卡信息。
